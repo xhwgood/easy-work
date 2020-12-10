@@ -2,7 +2,7 @@ import Taro, { Component } from "@tarojs/taro";
 import { Canvas } from "@tarojs/components";
 import WxCanvas from "./wx-canvas";
 
-import "./ec-canvas.styl";
+import "./ec-canvas.css";
 
 function wrapTouch(event) {
     for (let i = 0; i < event.touches.length; ++i) {
