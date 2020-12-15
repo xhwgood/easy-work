@@ -1,6 +1,6 @@
 {
-  "name": "echarts12",
-  "version": "1.1.6",
+  "name": "hynu-echarts",
+  "version": "1.0.0",
   "description": "",
   "main": "dist/index.js",
   "main:h5": "dist/h5/index.js",
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/cangku/easy-work/tree/develop/components/echarts"
+    "url": "https://github.com/xhwgood/easy-work/tree/develop/components/echarts"
   },
   "keywords": [
     "taro",

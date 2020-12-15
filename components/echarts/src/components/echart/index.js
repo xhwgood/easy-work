@@ -14,7 +14,6 @@ import Taro, { Component } from "@tarojs/taro";
 import { View } from "@tarojs/components";
 import * as echarts from "./echarts";
 import EcCanvas from "./ec-canvas";
-import "./index.styl";
 class Echart extends Component {
     state = {
         defaultEc: {
